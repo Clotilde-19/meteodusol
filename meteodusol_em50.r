@@ -10,7 +10,7 @@
 # Les mesures sont rÃ©alisÃ©es avec les enresgistreurs EM50
 
 # PrÃ©-requis
-# 1. un fichier contenant les attributs des sites (mysite_EM50.csv)
+# 1. un fichier contenant les attributs des sites (mysite_EM50.csv). le séparateur est ;
 #  SourceID = nom du site attribuÃ© par le fournisseur de donnÃ©es
 #  X_WGS84  = longitude en degrÃ©s dÃ©cimaux
 #  Y_WGS84  = latitude en degrÃ©s dÃ©cimaux
